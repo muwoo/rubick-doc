@@ -28,6 +28,11 @@ module.exports = {
         title: 'devtools',
         path: '/devtools/',
         sidebarDepth: 1,
+      },
+      {
+        title: '常见问题',
+        path: '/questions/',
+        sidebarDepth: 1,
       }
     ]
   }

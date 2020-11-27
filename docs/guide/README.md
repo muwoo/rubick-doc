@@ -1,5 +1,9 @@
 # 环境准备
 ## 下载 rubick
+版本：
+
+[rubick download v0.0.3](https://gitlab.91jkys.com/web/rubick/blob/feat-devtools/build/rubick-0.0.3.pkg)
+
 [rubick download v0.0.2](https://gitlab.91jkys.com/web/rubick/blob/feat-devtools/build/rubick-0.0.2.pkg)
 
 ## 配置代理
@@ -15,7 +19,11 @@
 点击开启网络抓包后，点击 `证书` 按钮下载证书。
 
 ![](http://static.91jkys.com/activity/img/ebab0382ef3d40439443714ada01283f.png)
-双击rootCA.crt 进行安装
+
+下载完成后，找到证书安装的目录，双击rootCA.crt 进行安装
+:::tip
+下载完成后的目录一般在 `/Users/ks/.anyproxy/certificates`
+:::
 Mac：安装后在KeyChain app中找到证书AnyProxy, 修改简介为信任。
 
 ![](http://static.91jkys.com/activity/img/4ebce555b1634efeac065648ae54783b.png)
