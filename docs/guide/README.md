@@ -2,9 +2,14 @@
 ## 下载 rubick
 版本：
 
+[rubick download v0.0.4](https://gitlab.91jkys.com/web/rubick/blob/master/build/rubick-0.0.4.pkg)
+
+* 使用 weiner 替代 chrome-devtools-frontend
+* 优化网络抓包面板展示
+
 [rubick download v0.0.3](https://gitlab.91jkys.com/web/rubick/blob/feat-devtools/build/rubick-0.0.3.pkg)
 
-[rubick download v0.0.2](https://gitlab.91jkys.com/web/rubick/blob/feat-devtools/build/rubick-0.0.2.pkg)
+* 支持 chrome-devtools
 
 ## 配置代理
 下载 chrome SwitchyOmega 插件，转发网页请求到 rubick 客户端 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)

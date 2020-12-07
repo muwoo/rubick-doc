@@ -33,6 +33,11 @@ module.exports = {
         title: '常见问题',
         path: '/questions/',
         sidebarDepth: 1,
+      },
+      {
+        title: 'Lighthouse',
+        path: '/lighthouse/',
+        sidebarDepth: 1,
       }
     ]
   }
