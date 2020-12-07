@@ -6,6 +6,7 @@
 
 * 使用 weiner 替代 chrome-devtools-frontend
 * 优化网络抓包面板展示
+* 支持Lighthouse
 
 [rubick download v0.0.3](https://gitlab.91jkys.com/web/rubick/blob/feat-devtools/build/rubick-0.0.3.pkg)
 

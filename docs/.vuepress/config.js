@@ -30,13 +30,13 @@ module.exports = {
         sidebarDepth: 1,
       },
       {
-        title: '常见问题',
-        path: '/questions/',
+        title: 'Lighthouse',
+        path: '/lighthouse/',
         sidebarDepth: 1,
       },
       {
-        title: 'Lighthouse',
-        path: '/lighthouse/',
+        title: '常见问题',
+        path: '/questions/',
         sidebarDepth: 1,
       }
     ]
