@@ -18,7 +18,12 @@
 
 ### pc 端
 
-下载完成后，找到证书安装的目录，双击 rootCA.crt 进行安装 :::tip 下载完成后的目录一般在 `/Users/ks/.anyproxy/certificates` ::: Mac：安装后在 KeyChain app 中找到证书 AnyProxy, 修改简介为信任。
+下载完成后，找到证书安装的目录，双击 rootCA.crt 进行安装 
+:::tip 
+下载完成后的目录一般在 `/Users/{username}/.anyproxy/certificates`
+:::
+
+Mac：安装后在 KeyChain app 中找到证书 AnyProxy, 修改简介为信任。
 
 ![](http://static.91jkys.com/activity/img/4ebce555b1634efeac065648ae54783b.png)
 
